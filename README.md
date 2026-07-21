@@ -36,7 +36,7 @@ Building practical digital products through code, design, and photography.
 <tr>
 <td width="50%" valign="top">
 
-### 🌋 Lava Labs
+<h3><img src="https://raw.githubusercontent.com/kyungminkim11/lavalabs-homepage/main/public/assets/images/lava-logo-transparent.png" alt="Lava Labs" width="28" height="28" align="absmiddle" /> Lava Labs</h3>
 
 아이디어를 실제 서비스로 구현하는 디지털 스튜디오입니다. 웹 개발, 자동화, 콘텐츠 및 다양한 실험적 프로젝트를 운영합니다.
 
