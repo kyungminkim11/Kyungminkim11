@@ -74,22 +74,13 @@ Building practical digital products through code, design, and photography.
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td colspan="2" valign="top">
 
 ### ⏱️ TimeFit
 
 시간과 일정 정보를 더 직관적으로 다루기 위한 생산성 프로젝트입니다.
 
 [Repository](https://github.com/kyungminkim11/TimeFit)
-
-</td>
-<td width="50%" valign="top">
-
-### ✒️ BlueBlack Digital Projects
-
-만년필과 문구 콘텐츠를 위한 프로모션 페이지, SNS 운영 도구 및 디지털 콘텐츠를 제작합니다.
-
-[Pen Buffet](https://github.com/kyungminkim11/blueblack-sailor-pen-buffet-preview) · [SNS Project](https://github.com/kyungminkim11/BlueBlack-SNS)
 
 </td>
 </tr>
