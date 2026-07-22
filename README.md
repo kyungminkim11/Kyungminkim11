@@ -4,9 +4,25 @@
 
 <br />
 
-<a href="https://lavalabs.co.kr"><img src="https://img.shields.io/badge/LAVA_LABS-Visit_Website-FF5A36?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Lava Labs website" /></a>
-<a href="https://www.instagram.com/365daily.snap/"><img src="https://img.shields.io/badge/365_DAILY_SNAP-Photography-8B5CF6?style=for-the-badge&logo=instagram&logoColor=white" alt="365 Daily Snap Instagram" /></a>
-<a href="mailto:info@lavalabs.co.kr"><img src="https://img.shields.io/badge/CONTACT-info%40lavalabs.co.kr-111827?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact email" /></a>
+<img src="https://raw.githubusercontent.com/kyungminkim11/lavalabs-homepage/main/public/assets/images/lava-logo-transparent.png" width="72" alt="Lava Labs logo" />
+
+# 김경민 · Kyungmin Kim
+
+### Developer · Creative Technologist · Photographer
+
+**아이디어를 실제로 사용할 수 있는 제품과 경험으로 구현합니다.**  
+Building useful digital products through code, design, automation, and photography.
+
+<br />
+
+<a href="https://lavalabs.co.kr"><img src="https://img.shields.io/badge/LAVA_LABS-VISIT_WEBSITE-FF5A36?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Lava Labs website" /></a>
+<a href="https://www.instagram.com/365daily.snap/"><img src="https://img.shields.io/badge/365_DAILY_SNAP-PHOTOGRAPHY-8B5CF6?style=for-the-badge&logo=instagram&logoColor=white" alt="365 Daily Snap Instagram" /></a>
+<a href="mailto:info@lavalabs.co.kr"><img src="https://img.shields.io/badge/CONTACT-SEND_EMAIL-111827?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact email" /></a>
+
+<br /><br />
+
+<img src="https://img.shields.io/badge/STATUS-BUILDING_%26_EXPERIMENTING-0D1117?style=flat-square&labelColor=FF5A36" alt="Current status" />
+<img src="https://img.shields.io/badge/BASED_IN-SOUTH_KOREA-0D1117?style=flat-square&labelColor=8B5CF6" alt="Based in South Korea" />
 
 </div>
 
@@ -14,139 +30,130 @@
 
 ## About Me
 
-<table>
-<tr>
-<td width="62%" valign="top">
+저는 **Lava Labs**를 운영하며 웹 서비스, 자동화 도구, 운영 시스템과 디지털 콘텐츠를 만들고 있습니다.
 
-저는 **Lava Labs**를 운영하며 아이디어를 실제로 사용할 수 있는 웹 서비스와 운영 도구로 구현하고 있습니다.
+개발·디자인·운영을 따로 떼어 생각하지 않습니다. **사용자 경험, 업무 효율, 브랜드 표현, 실제 운영 가능성**을 하나의 제품 관점에서 함께 설계합니다. 사진 작업에서는 일상과 공간, 사람의 분위기를 자연스럽게 기록합니다.
 
-개발, 디자인, 운영을 분리하지 않고 **사용자 경험·업무 효율·브랜드 표현**을 하나의 제품 관점에서 함께 설계합니다. 사진 작업에서는 일상과 공간, 사람의 분위기를 자연스럽게 기록합니다.
+> **Useful first. Beautiful by design. Sustainable in operation.**  
+> 실제로 쓸 수 있고, 목적이 명확하며, 오래 운영할 수 있는 결과물을 지향합니다.
 
-- **Product & Web** — 웹사이트, 업무 도구, 자동화 서비스
-- **Business Systems** — 운영 프로세스, 매뉴얼, 고객 접점 개선
-- **Creative Work** — 사진, 콘텐츠, 브랜드 비주얼
-- **Current Focus** — AI 활용 개발, 소규모 SaaS, 서비스 자동화
+<br />
 
-</td>
-<td width="38%" valign="top" align="center">
+<img src="./assets/profile-focus.svg" width="100%" alt="Product, automation, photography and brand focus areas" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=kyungminkim11&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ff6b35&icon_color=8b5cf6&text_color=c9d1d9&rank_icon=github" width="100%" alt="GitHub stats" />
+---
 
-</td>
-</tr>
-</table>
+## Currently Building
+
+```text
+LAVA LABS        Web products · Automation · Digital services
+365 DAILY SNAP   Photography · Content · Visual storytelling
+CURRENT FOCUS    AI-assisted development · Small SaaS · Better operations
+```
+
+제가 좋아하는 흐름은 단순합니다.
+
+**Discover → Design → Build → Validate → Operate**
+
+아이디어를 예쁜 시안으로 끝내지 않고, 실제 사용과 운영까지 연결합니다.
 
 ---
 
 ## Selected Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<details open>
+<summary><b>Lava Labs</b> — Digital product studio</summary>
+<br />
 
-### <img src="https://raw.githubusercontent.com/kyungminkim11/lavalabs-homepage/main/public/assets/images/lava-logo-transparent.png" width="25" height="25" alt="Lava Labs" /> Lava Labs
+<img src="https://raw.githubusercontent.com/kyungminkim11/lavalabs-homepage/main/public/assets/images/lava-logo-transparent.png" width="36" alt="Lava Labs logo" />
 
 아이디어를 실제 서비스로 구현하는 디지털 스튜디오입니다. 웹 개발, 자동화, 콘텐츠와 실험적인 제품을 운영합니다.
 
-[![Website](https://img.shields.io/badge/OPEN_WEBSITE-FF5A36?style=flat-square&logo=googlechrome&logoColor=white)](https://lavalabs.co.kr)
-[![Repository](https://img.shields.io/badge/VIEW_CODE-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/kyungminkim11/lavalabs-web)
+[![Website](https://img.shields.io/badge/OPEN_WEBSITE-FF5A36?style=for-the-badge&logo=googlechrome&logoColor=white)](https://lavalabs.co.kr)
+[![Repository](https://img.shields.io/badge/VIEW_CODE-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kyungminkim11/lavalabs-web)
 
-</td>
-<td width="50%" valign="top">
+</details>
 
-### 📷 365 Daily Snap
+<details open>
+<summary><b>365 Daily Snap</b> — Photography project</summary>
+<br />
 
-일상, 인물, 공간의 분위기를 기록하는 사진 프로젝트입니다. 촬영 결과물과 브랜드 경험을 웹으로 연결합니다.
+일상, 인물, 공간의 분위기를 기록하는 사진 프로젝트입니다. 촬영 결과물과 브랜드 경험을 웹과 콘텐츠로 연결합니다.
 
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-8B5CF6?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/365daily.snap/)
-[![Repository](https://img.shields.io/badge/VIEW_CODE-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/kyungminkim11/365-daily-snap)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-8B5CF6?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/365daily.snap/)
+[![Repository](https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kyungminkim11/365-daily-snap)
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+</details>
 
-### 🔍 Follow Checker
+<details>
+<summary><b>Follow Checker</b> — Social relationship analysis</summary>
+<br />
 
 소셜 계정의 팔로우 관계를 편리하게 확인하고 관리하기 위한 분석 도구입니다.
 
-[![Service](https://img.shields.io/badge/OPEN_SERVICE-0EA5E9?style=flat-square&logo=googlechrome&logoColor=white)](https://lavalabs.co.kr/projects/follow-checker/)
-[![Repository](https://img.shields.io/badge/VIEW_CODE-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/kyungminkim11/unfollow)
+[![Service](https://img.shields.io/badge/OPEN_SERVICE-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://lavalabs.co.kr/projects/follow-checker/)
+[![Repository](https://img.shields.io/badge/VIEW_CODE-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kyungminkim11/unfollow)
 
-</td>
-<td width="50%" valign="top">
+</details>
 
-### 💙 Shape of Heart
+<details>
+<summary><b>Shape of Heart</b> — Interactive emotional experience</summary>
+<br />
 
 감정과 관계를 디지털 경험으로 표현하는 인터랙티브 웹 프로젝트입니다.
 
-[![Service](https://img.shields.io/badge/OPEN_SERVICE-EC4899?style=flat-square&logo=googlechrome&logoColor=white)](https://shape-of-heart.lavalabs.co.kr)
-[![Repository](https://img.shields.io/badge/VIEW_CODE-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/kyungminkim11/shape-of-heart)
+[![Service](https://img.shields.io/badge/OPEN_SERVICE-EC4899?style=for-the-badge&logo=googlechrome&logoColor=white)](https://shape-of-heart.lavalabs.co.kr)
+[![Repository](https://img.shields.io/badge/VIEW_CODE-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kyungminkim11/shape-of-heart)
 
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top" align="center">
+</details>
 
-### ⏱️ TimeFit
+<details>
+<summary><b>TimeFit</b> — Productivity experiment</summary>
+<br />
 
 시간과 일정 정보를 더 직관적으로 다루기 위한 생산성 프로젝트입니다.
 
 [![Repository](https://img.shields.io/badge/EXPLORE_PROJECT-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kyungminkim11/TimeFit)
 
-</td>
-</tr>
-</table>
+</details>
 
 ---
 
-## Tech Stack
+## Tech & Creative Tools
 
 <div align="center">
 
-### Build
+### Product Development
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind,python&theme=dark" alt="Development stack" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind,python&theme=dark&perline=8" alt="Product development stack" />
 
-### Platform & Data
+### Platform & Workflow
 
-<img src="https://skillicons.dev/icons?i=github,git,supabase,netlify,vscode&theme=dark" alt="Platform stack" />
+<img src="https://skillicons.dev/icons?i=git,github,supabase,netlify,vscode&theme=dark&perline=5" alt="Platform and workflow tools" />
 
 ### Creative
 
-<img src="https://skillicons.dev/icons?i=ps,pr&theme=dark" alt="Creative tools" />
+<img src="https://skillicons.dev/icons?i=ps,pr&theme=dark&perline=2" alt="Creative tools" />
 
 </div>
 
 ---
 
-## Activity
+## Work With Me
+
+웹사이트, 자동화, 소규모 디지털 서비스, 사진 및 콘텐츠 프로젝트에 열려 있습니다.
+
+- 복잡한 업무 흐름을 단순한 도구로 바꾸는 작업
+- 작은 아이디어를 실제 운영 가능한 서비스로 만드는 작업
+- 코드·디자인·사진을 하나의 브랜드 경험으로 연결하는 작업
 
 <div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=kyungminkim11&hide_border=true&background=0D1117&ring=FF6B35&fire=FF6B35&currStreakLabel=8B5CF6&sideLabels=C9D1D9&dates=7D8590&currStreakNum=FFFFFF&sideNums=FFFFFF" width="58%" alt="GitHub streak" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyungminkim11&layout=compact&hide_border=true&bg_color=0d1117&title_color=ff6b35&text_color=c9d1d9" width="38%" alt="Top languages" />
-
-</div>
-
----
-
-<div align="center">
-
-## Working Principles
-
-### **Useful first. Beautiful by design. Sustainable in operation.**
-
-서비스는 실제로 쓸 수 있어야 하고, 디자인은 목적을 분명하게 전달해야 하며, 운영은 오래 유지할 수 있어야 한다고 생각합니다.
-
-<br />
 
 ### Let’s build something useful.
 
-새로운 웹 프로젝트, 자동화, 사진 및 콘텐츠 협업에 열려 있습니다.
-
 <a href="https://lavalabs.co.kr"><img src="https://img.shields.io/badge/lavalabs.co.kr-FF5A36?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Lava Labs" /></a>
-<a href="mailto:info@lavalabs.co.kr"><img src="https://img.shields.io/badge/Send_Email-111827?style=for-the-badge&logo=gmail&logoColor=white" alt="Send email" /></a>
+<a href="mailto:info@lavalabs.co.kr"><img src="https://img.shields.io/badge/SEND_EMAIL-111827?style=for-the-badge&logo=gmail&logoColor=white" alt="Send email" /></a>
+<a href="https://github.com/kyungminkim11?tab=repositories"><img src="https://img.shields.io/badge/VIEW_REPOSITORIES-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="View repositories" /></a>
 
 <br /><br />
 
