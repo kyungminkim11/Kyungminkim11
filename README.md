@@ -1,10 +1,6 @@
 <div align="center">
 
-<img src="./assets/profile-hero.svg" width="100%" alt="Kyungmin Kim — Lava Labs profile banner" />
-
-<br />
-
-<img src="https://raw.githubusercontent.com/kyungminkim11/lavalabs-homepage/main/public/assets/images/lava-logo-transparent.png" width="72" alt="Lava Labs logo" />
+<img src="https://raw.githubusercontent.com/kyungminkim11/lavalabs-homepage/main/public/assets/images/lava-logo-transparent.png" width="96" alt="Lava Labs logo" />
 
 # 김경민 · Kyungmin Kim
 
@@ -37,9 +33,24 @@ Building useful digital products through code, design, automation, and photograp
 > **Useful first. Beautiful by design. Sustainable in operation.**  
 > 실제로 쓸 수 있고, 목적이 명확하며, 오래 운영할 수 있는 결과물을 지향합니다.
 
-<br />
+---
 
-<img src="./assets/profile-focus.svg?v=2" width="100%" alt="Product, automation, photography and brand focus areas" />
+## What I Build
+
+### 🟠 Product & Web
+웹사이트와 소규모 웹 서비스를 기획하고, 사용자 경험부터 배포와 운영까지 연결합니다.
+
+`Product Strategy` · `UX` · `Frontend` · `Deployment`
+
+### 🟣 Automation & Systems
+반복 업무를 줄이고 운영 흐름을 명확하게 만드는 자동화 도구와 관리 시스템을 설계합니다.
+
+`AI Tools` · `Workflow` · `Data` · `Operations`
+
+### 🔵 Photo & Brand
+사진, 콘텐츠와 시각 디자인을 통해 브랜드의 분위기와 이야기를 기록합니다.
+
+`Photography` · `Content` · `Visual Design` · `Brand Experience`
 
 ---
 
@@ -48,8 +59,6 @@ Building useful digital products through code, design, automation, and photograp
 - **Lava Labs** — 웹 제품, 자동화 도구, 디지털 서비스
 - **365 Daily Snap** — 사진, 콘텐츠, 비주얼 스토리텔링
 - **Current Focus** — AI 활용 개발, 소규모 SaaS, 운영 개선
-
-제가 좋아하는 작업 흐름은 단순합니다.
 
 ### Discover → Design → Build → Validate → Operate
 
@@ -62,8 +71,6 @@ Building useful digital products through code, design, automation, and photograp
 <details open>
 <summary><b>Lava Labs</b> — Digital product studio</summary>
 <br />
-
-<img src="https://raw.githubusercontent.com/kyungminkim11/lavalabs-homepage/main/public/assets/images/lava-logo-transparent.png" width="36" alt="Lava Labs logo" />
 
 아이디어를 실제 서비스로 구현하는 디지털 스튜디오입니다. 웹 개발, 자동화, 콘텐츠와 실험적인 제품을 운영합니다.
 
