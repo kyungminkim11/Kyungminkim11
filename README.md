@@ -39,23 +39,21 @@ Building useful digital products through code, design, automation, and photograp
 
 <br />
 
-<img src="./assets/profile-focus.svg" width="100%" alt="Product, automation, photography and brand focus areas" />
+<img src="./assets/profile-focus.svg?v=2" width="100%" alt="Product, automation, photography and brand focus areas" />
 
 ---
 
 ## Currently Building
 
-```text
-LAVA LABS        Web products · Automation · Digital services
-365 DAILY SNAP   Photography · Content · Visual storytelling
-CURRENT FOCUS    AI-assisted development · Small SaaS · Better operations
-```
+- **Lava Labs** — 웹 제품, 자동화 도구, 디지털 서비스
+- **365 Daily Snap** — 사진, 콘텐츠, 비주얼 스토리텔링
+- **Current Focus** — AI 활용 개발, 소규모 SaaS, 운영 개선
 
-제가 좋아하는 흐름은 단순합니다.
+제가 좋아하는 작업 흐름은 단순합니다.
 
-**Discover → Design → Build → Validate → Operate**
+### Discover → Design → Build → Validate → Operate
 
-아이디어를 예쁜 시안으로 끝내지 않고, 실제 사용과 운영까지 연결합니다.
+아이디어를 보기 좋은 시안으로 끝내지 않고, 실제 사용과 운영까지 연결합니다.
 
 ---
 
@@ -125,7 +123,7 @@ CURRENT FOCUS    AI-assisted development · Small SaaS · Better operations
 
 ### Product Development
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind,python&theme=dark&perline=8" alt="Product development stack" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind,python&theme=dark&perline=4" alt="Product development stack" />
 
 ### Platform & Workflow
 
